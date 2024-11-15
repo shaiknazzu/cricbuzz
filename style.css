@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(55,119,55);
+    height:50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    list-style: none;
+    width: 600px;
+    justify-content: space-around;
+}
+li{
+    color: white;
+    cursor: pointer;
+}
+button{
+    height: 30px;
+    width: 120px;
+    border: none;
+    border-radius: 25px;
+    color: #666;
+
+}
